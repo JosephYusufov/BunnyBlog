@@ -1,0 +1,7 @@
+#navbar{
+  float: top;
+  position: sticky;
+  top: 0;
+  background: lightblue;
+  /* margin: 0; */
+}
